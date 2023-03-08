@@ -1,0 +1,5 @@
+<map id="vector_for_n" name="vector_for_n">
+<area shape="rect" id="node1" title="Zavolání zvolené funkce na prvních N elementů vektoru od pozice určené iterátorem." alt="" coords="5,13,96,38"/>
+<area shape="rect" id="node2" href="$group___t_vector_iterator.html#ga3f8a97a63f887539e270f6845bf22b9a" title="Zjištění platnosti iterátoru." alt="" coords="345,5,465,45"/>
+<area shape="rect" id="node3" href="$group___t_vector_iterator.html#ga7ce07cda016d67e3ca891125613ece56" title="Posunutí iterátoru vpřed." alt="" coords="144,38,297,63"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="resize_testing" name="resize_testing">
+<area shape="rect" id="node1" title="Testování funkce vector_resize()" alt="" coords="5,80,108,105"/>
+<area shape="rect" id="node2" href="$main__support_8h.html#aa291195ad453d2b1e29004cc2e043c01" title="Výpočet doby trvání časového intervalu." alt="" coords="164,5,255,31"/>
+<area shape="rect" id="node3" href="$group___t_vector.html#ga6b0b8780d60dad02b8569be119769548" title="Vytvoření úplné kopie vektoru." alt="" coords="162,55,257,80"/>
+<area shape="rect" id="node4" href="$group___t_vector.html#ga41fcff5418fe213f2caaa586f521bcd6" title="Dealokace vektoru." alt="" coords="156,104,263,129"/>
+<area shape="rect" id="node5" href="$group___t_vector.html#gabf502ae8257c371ab9c7fb95a242ccb2" title="Změna velikosti existujícího vektoru." alt="" coords="160,153,259,179"/>
+</map>
